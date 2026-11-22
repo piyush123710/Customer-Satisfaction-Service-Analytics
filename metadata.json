@@ -1,0 +1,6 @@
+{
+  "name": "ServicePulse BI — Customer Satisfaction & Service Analytics",
+  "description": "Interactive Customer Satisfaction & Service Analytics Dashboard analyzing 560 customer interaction records with Power BI-style cross-filtered visualizations, SQL query explorer, and Excel data validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
